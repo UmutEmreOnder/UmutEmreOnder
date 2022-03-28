@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @UmutEmreOnder
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning machine learning
 
 <!---
 UmutEmreOnder/UmutEmreOnder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
