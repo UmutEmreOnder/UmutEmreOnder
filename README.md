@@ -4,7 +4,7 @@ Hi 👋 My name is Umut Emre Önder
 Computer Engineering Student
 ----------------------------
 
-I have been dealing with software development as an amateur for more than 5 years. I had the opportunity to get to know and deal with many areas of software. I developed small applications in different fields such as game development, machine learning (reinforcement learning), desktop application development, etc. I am currently working on being a backend developer.
+I have been dealing with software development as an amateur for more than 4 years. I had the opportunity to get to know and deal with many areas of software. I developed small applications in different fields such as game development, machine learning (reinforcement learning), desktop application development, etc. I am currently working on being a backend developer.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [umutemreonder@gmail.com](mailto:umutemreonder@gmail.com)
