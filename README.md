@@ -8,8 +8,8 @@ I have been dealing with software development as an amateur for more than 4 year
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [umutemreonder@gmail.com](mailto:umutemreonder@gmail.com)
-* 🧠  I'm learning Spring, Advanced GIT and SQL
-* 🤝  I'm open to collaborating on for backend in web applications or database management
+* 🧠  I'm learning Spring and Hibernate
+
 
 ### Skills
 
